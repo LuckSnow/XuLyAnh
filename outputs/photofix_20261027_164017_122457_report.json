@@ -1,0 +1,18 @@
+{
+  "assessment": {
+    "grayscale": false,
+    "sepia": false,
+    "median_light": 133.0,
+    "light_range": 161.0,
+    "noise": 0.0,
+    "impulse_fraction": 0.0030247268545140885
+  },
+  "elapsed_seconds": 0.021892400000069756,
+  "colorized": false,
+  "stages": {
+    "original": "photofix_20261027_164017_122457_original.png",
+    "repaired": "photofix_20261027_164017_122457_repaired.png",
+    "enhanced": "photofix_20261027_164017_122457_enhanced.png",
+    "final": "photofix_20261027_164017_122457_final.png"
+  }
+}
